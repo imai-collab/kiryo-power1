@@ -969,7 +969,7 @@ export default function App() {
             <div className="text-6xl mb-2 animate-bounce">🎌</div>
             <h1 className="text-3xl font-black text-[#634C32]">全問クリア！</h1>
             <p className="text-[#634C32] font-medium">
-              おめでとうにゃ！すごい！
+              おめでとう！すごい！
             </p>
             <button
               onClick={() => setPuzzleIdx(0)}
