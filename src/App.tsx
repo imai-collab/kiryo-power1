@@ -943,10 +943,10 @@ export default function App() {
               <div className="text-3xl absolute -bottom-2 -right-2 text-[#634C32] font-bold bg-[#FFFFFF] border-[3px] border-[#634C32] shadow-[0_3px_0_#D0B99B] rounded-lg w-14 h-14 flex items-center justify-center translate-x-3 translate-y-1 z-10">歩</div>
             </div>
             <h1 className="text-3xl font-black text-[#634C32] tracking-tight">
-              １手詰にゃう
+              初心者１手詰
             </h1>
             <p className="text-[#634C32] font-medium leading-relaxed">
-              漢字の駒で
+              動き方のついた駒で
               <br />
               １手詰に挑戦しよう！
               <br />
