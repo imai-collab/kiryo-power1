@@ -1117,7 +1117,7 @@ export default function App() {
 
               <div className="mt-4">
                 <div className="flex items-center justify-between mb-2">
-                  <h3 className="font-bold text-[#634C32]">もんだい いちらん</h3>
+                  <h3 className="font-bold text-[#634C32]"></h3>
                   <div className="flex flex-wrap items-center justify-end gap-2">
                     <button
                       onClick={() => {
