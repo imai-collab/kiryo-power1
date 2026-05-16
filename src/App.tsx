@@ -1111,8 +1111,8 @@ export default function App() {
                 <div className="absolute -top-[14px] left-1/2 -translate-x-1/2 w-0 h-0 border-l-[10px] border-r-[10px] border-b-[12px] border-l-transparent border-r-transparent border-b-[#634C32]"></div>
                 <div className="absolute -top-[9px] left-1/2 -translate-x-1/2 w-0 h-0 border-l-[6px] border-r-[6px] border-b-[8px] border-l-transparent border-r-transparent border-b-[#FFFFFF] z-10"></div>
                 {solved
-                  ? "やったにゃ！大正解！"
-                  : "あと１手でつみだよ！\nどこに置けばいいかにゃ？"}
+                  ? "やった！大正解！"
+                  : "あと１手で詰みだよ！\nどの手かな？"}
               </div>
 
               <div className="mt-4">
