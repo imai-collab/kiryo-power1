@@ -1174,7 +1174,7 @@ export default function App() {
                       className="text-xs px-3 py-1 font-bold flex items-center gap-1 rounded-lg bg-[#EAE8E3] border-2 border-[#DEDCD7] hover:bg-[#DEDCD7] text-[#634C32] transition-colors"
                     >
                       <RefreshCcw size={14} />
-                      JSONをコピーして保存（GitHub同期用）
+                      データをコピー
                     </button>
                   </div>
                 </div>
